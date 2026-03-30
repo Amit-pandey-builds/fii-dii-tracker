@@ -221,7 +221,7 @@ nseindia.com/api/fiidiiTradeReact  ──→  Returns JSON
     │
     │  GET /api/v1/fii-dii/today
     ▼
-Your Kotak Neo Backend
+Your Backend
 ```
 
 ## Key Design Decisions
